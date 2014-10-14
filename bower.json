@@ -1,0 +1,25 @@
+{
+  "name": "requirejs-plugins",
+  "version": "1.0.0",
+  "homepage": "https://github.com/InnovaCo/requirejs-plugins",
+  "authors": [
+    "Sergey Chikuyonok <serge.che@gmail.com>"
+  ],
+  "description": "Плагины для Require.js, используемые для загрузки ресурсов на сайте 4game.com",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "requirejs",
+    "plugin"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
