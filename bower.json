@@ -1,6 +1,6 @@
 {
   "name": "requirejs-plugins",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "homepage": "https://github.com/InnovaCo/requirejs-plugins",
   "authors": [
     "Sergey Chikuyonok <serge.che@gmail.com>"
@@ -21,5 +21,8 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "devDependencies": {
+    "requirejs": "~2.1.15"
+  }
 }
