@@ -1,6 +1,6 @@
 {
   "name": "requirejs-plugins",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Плагины для Require.js, используемые для загрузки ресурсов на сайте 4game.com",
   "main": "index.js",
   "scripts": {
